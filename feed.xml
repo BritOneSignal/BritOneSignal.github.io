@@ -4,6 +4,14 @@
     <title>Demo Publisher Feed</title>
     <link>https://example.com/</link>
     <description>Test feed for the OneSignal category push demo</description>
+      <item>
+      <title>Fed holds rates steady, signals cuts ahead</title>
+      <link>https://example.com/articles/fed-holds-rates</link>
+      <description>The central bank left rates unchanged and pointed to easing later this year.</description>
+      <category>Finance</category>
+      <guid isPermaLink="false">demo-0003</guid>
+      <pubDate>Fri, 09 Oct 2026 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Markets open higher as rate decision nears</title>
       <link>https://example.com/articles/markets-open-higher</link>
