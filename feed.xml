@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Demo Publisher Feed</title>
+    <link>https://example.com/</link>
+    <description>Test feed for the OneSignal category push demo</description>
+    <item>
+      <title>Markets open higher as rate decision nears</title>
+      <link>https://example.com/articles/markets-open-higher</link>
+      <description>Stocks rose in early trading ahead of this week's central bank meeting.</description>
+      <category>Finance</category>
+      <guid isPermaLink="false">demo-0001</guid>
+      <pubDate>Thu, 08 Oct 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New study links sleep timing to heart health</title>
+      <link>https://example.com/articles/sleep-heart-health</link>
+      <description>Researchers found consistent bedtimes matter as much as total hours.</description>
+      <category>Health</category>
+      <guid isPermaLink="false">demo-0002</guid>
+      <pubDate>Thu, 08 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
